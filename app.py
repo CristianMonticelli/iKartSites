@@ -47,7 +47,7 @@ def tempi():
 def logout():
     session.pop('username', None)
     return redirect('/login')
-
+##
 @app.template_filter('format_date')
 def format_date(value):
     try:
