@@ -43,8 +43,6 @@ PaginaRegistrazione/
 ├── app.py                  # File principale dell'applicazione Flask
 ├── tempi.json                  # File json con i tempi all interno
 ├── utenti.json                  # File json con le credenziali degli utenti all interno
-├── js/                 # File js
-│   └── scrpit.js          # script per il cubo 3d
 ├── static/               # css
 │   └── style.css    # css  
 └── templates/              # Template html
